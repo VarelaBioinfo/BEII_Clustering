@@ -20,7 +20,7 @@
 Generalmente en la etapa de exploración es en donde se hace el trabajo. 
 
 
-### Ejemplo 
+### Ejemplo 
 
 - Genes A-G
 - variables 1 y 2 
@@ -64,7 +64,7 @@ No puedo determinar con confianza el número de grupos solo con los datos pues u
 
 > Y qué si las unidades de las variables son diferentes?
 
-##Criterio de Aglomeración o Criterios para unir clusters
+## Criterio de Aglomeración o Criterios para unir clusters
 
 Cómo defino la distancia más corta entre dos clusters pués lo que yo quiero es juntar los cluster más cercanos o los que me maximizan una función objetivo biológica. 
 
@@ -79,7 +79,7 @@ Cómo defino la distancia más corta entre dos clusters pués lo que yo quiero e
   - Aglomera los objetos o clusters que minimizan la varianza (o cualquier otra función definida por el usuario) del agrupamiento 
   - genera los grupos más homogeneos 
 
-##Métodos de Clustering jerárquicos y no jerárquicos 
+## Métodos de Clustering jerárquicos y no jerárquicos 
 - Top Down 
   - inicias en múltiples clusters 
 - Métodos divisivos (Bottom up)
@@ -98,7 +98,7 @@ Cómo defino la distancia más corta entre dos clusters pués lo que yo quiero e
 - Repetir los pasos 2,3 y 4 hasta que ninguna observación pueda ser reasignada. 
 
 
-## Etapas 
+## Etapas 
 1. Explorar mis datos 
   - control de calidad
   - que tanto puedo confiar en ellos 

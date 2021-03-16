@@ -1,7 +1,14 @@
-prerequisites
 intro
 análisis-de-clusters-y-su-papel-en-el-proceso-de-minería-de-datos-y-desubrimiento-de-conocimiento
 etapas-del-análisis-de-cluster
+ejemplo
+consideraciones-subjetivas
+enfatizando-el-problema
+medida-de-distancia
+criterio-de-aglomeración-o-criterios-para-unir-clusters
+métodos-de-clustering-jerárquicos-y-no-jerárquicos
+clustering-no-jerárquico-k-means
+etapas
 methods
 applications
 example-one
