@@ -1,0 +1,17 @@
+# Introduction {#intro}
+
+Impartida por el Dr. Luis Arturo Medrano Soto
+
+Para el siguiente módulo se usaran los siguiente paquetes de R: 
+
+- dendextend 
+- factoextra
+- apte
+- MCMCpack
+
+En python: 
+
+- sklearn 
+- matplotlib.pyplot
+- pandas
+- seaborn 

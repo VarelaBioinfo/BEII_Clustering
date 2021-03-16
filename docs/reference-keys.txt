@@ -1,0 +1,9 @@
+prerequisites
+intro
+análisis-de-clusters-y-su-papel-en-el-proceso-de-minería-de-datos-y-desubrimiento-de-conocimiento
+etapas-del-análisis-de-cluster
+methods
+applications
+example-one
+example-two
+final-words
